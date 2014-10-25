@@ -1,0 +1,14 @@
+﻿Build started 6/17/2014 11:42:18 PM.
+     1>Project "C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Program 3 Project--Craig Parker\Program 3 Project--Craig Parker.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PaintPro2.0.cpp
+         PaintPro2.0.cpp
+     1>c:\users\craig\desktop\computer courses\cpt 232\program 3 solution--craig parker\program 3 project--craig parker\paintpro2.0.cpp(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Debug\Program 3 Project--Craig Parker.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Debug\Program 3 Project--Craig Parker.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Debug\Program 3 Project--Craig Parker.lib" /MACHINE:X86 Debug\PaintPro2.0.obj
+         Program 3 Project--Craig Parker.vcxproj -> C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Debug\Program 3 Project--Craig Parker.exe
+     1>Done Building Project "C:\Users\Craig\Desktop\Computer Courses\CPT 232\Program 3 Solution--Craig Parker\Program 3 Project--Craig Parker\Program 3 Project--Craig Parker.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.38
